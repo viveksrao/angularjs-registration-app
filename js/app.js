@@ -1,4 +1,4 @@
-var myApp = angular.module('myRegistrationApp',['ng-route']);
+var myApp = angular.module('myRegistrationApp', ['ngRoute']);
 
 myApp.config(['$routeProvider', function($routeProvider){
 	$routeProvider.
